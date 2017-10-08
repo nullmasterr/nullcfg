@@ -23,4 +23,3 @@ Launch Options
 ** -threads x   : x should be less than or equal to your amount of cores processor has.
 
 =====================================================================
-=====================================================================
