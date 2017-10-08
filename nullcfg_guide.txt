@@ -1,0 +1,41 @@
+// Null Master* Config File..
+//
+//		Arrow Keys Binds..
+//
+//
+//         ^  ----------->> Buys full nades.
+//      <  .  > --------->> Light/SMG buy w/ UMP-45.
+//      |  |__________>> Awp buy with full equipment w/out nades.
+//      |______________>> First round buy.
+//
+//		
+//		Key Pad Binds..
+//
+//
+//      N	/	*	-
+//		7	8	9	+
+//		4	5	6	
+//		1	2	3	
+//			0	,	ENT
+//
+//		/	>> Buys a decoy .... NOTE: F3 also buys a decoy in case of "/" does not work.			1	>> Buys desert eagle & vest + helm
+//		*   >> Buys a molotov or a incendiary grenade..												2	>> Buys M4 or AK
+//		-   >> Buys a vest																			3	>> Full buy with M4 or AK including nades
+//		+   >> Buys vest & helm																		4	>> Buys 1-4 (Five-seven, Tec-9 or CZ-75)
+//		0   >> Buys a hand granade (HE)																5	>> Buys a defuse kit
+//		DEL >> Buys a flashbang																		6	>> Buys an MP-7
+//		ENT >> Buys a smoke granade																	7	>> Buys a P250
+//																									8	>> Buys an AWP
+//																									9	>> Buys an SSG-08
+//
+//		Mouse Binds..
+//
+//		            UP  ------->> Takes smoke granade in hand 				
+//			        _
+//		   		   | |																Mouse-Forward (MOUSE 5) >>> Jump throw.
+//	Mouse wheel	   | |  ------->> Clears decals.. 	(MOUSE3)																																
+//                 |_|	(Clear bloods and bullet holes from the wall.)				Mouse-Backward (MOUSE4) >>> Takes molotov or incendiary granade in hand
+//
+//      	       DOWN ------->> Takes flashbang in hand
+//
+//
